@@ -1,0 +1,15 @@
+{
+  "name": "EVS MINIS",
+  "short_name": "EVS MINIS",
+  "description": "Paixão por velocidade, coleção e excelência.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#04080F",
+  "theme_color": "#04080F",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "assets/icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "assets/logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
